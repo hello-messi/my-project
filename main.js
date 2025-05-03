@@ -126,3 +126,6 @@ element1.onclick = function () {
 element2.onclick = function () {
   clearInterval(intervalId);
 }
+
+
+
